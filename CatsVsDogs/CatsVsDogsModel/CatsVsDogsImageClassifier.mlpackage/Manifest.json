@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "7EAB08F8-EF67-4F44-97ED-C9FC7FA3C1BF": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "CatsVsDogsImageClassifier.mlmodel",
+            "path": "com.apple.CoreML/CatsVsDogsImageClassifier.mlmodel"
+        },
+        "8F2B0B1D-82AD-485C-A516-F94A1C29A29D": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "FD804170-E6ED-459F-83B5-4DBDCED4105B": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "7EAB08F8-EF67-4F44-97ED-C9FC7FA3C1BF"
+}
